@@ -1,0 +1,9 @@
+{
+  "name": "dns",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "nslookup": "^1.1.1",
+    "ping": "^0.2.2"
+  }
+}
